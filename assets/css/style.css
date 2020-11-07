@@ -1,8 +1,17 @@
 #container {
     margin-top: 30px;
+    width: 60%;
 }
 
 img {
-    width: 150px;
-    height: 200px;
+    width: 200px;
+    height: 266.67px;
+}
+
+h1 {
+    color: #eee;
+}
+
+h6 {
+    margin-left: 15px;
 }
