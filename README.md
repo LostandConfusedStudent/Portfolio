@@ -6,6 +6,9 @@ This is my portfolio site. It will include my name, contact information, and lin
 
 ## Screenshots
 
+![home](assets/images/Home.png)
+![portfolio](assets/images/Portfolio.png)
+
 ## Links
 
 * https://github.com/LostandConfusedStudent/Portfolio
