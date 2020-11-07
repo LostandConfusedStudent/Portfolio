@@ -9,3 +9,4 @@ This is my portfolio site. It will include my name, contact information, and lin
 ## Links
 
 * https://github.com/LostandConfusedStudent/Portfolio
+* https://lostandconfusedstudent.github.io/Portfolio/
