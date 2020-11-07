@@ -3,15 +3,19 @@
     width: 60%;
 }
 
-img {
-    width: 200px;
-    height: 266.67px;
-}
-
 h1 {
     color: #eee;
 }
 
 h6 {
     margin-left: 15px;
+}
+
+img {
+    width: 200px;
+    height: 266.67px;
+}
+
+#image {
+    width: 300px;
 }
